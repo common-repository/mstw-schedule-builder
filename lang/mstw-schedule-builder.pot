@@ -1,0 +1,854 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-21 10:17-0500\n"
+"PO-Revision-Date: 2020-10-11 21:04-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: css\n"
+"X-Poedit-SearchPathExcluded-2: data\n"
+"X-Poedit-SearchPathExcluded-3: docs\n"
+"X-Poedit-SearchPathExcluded-4: images\n"
+"X-Poedit-SearchPathExcluded-5: js\n"
+"X-Poedit-SearchPathExcluded-6: lang\n"
+
+#: includes/mstw-sb-admin.php:21
+msgid "You is no admin. You be a cheater!"
+msgstr ""
+
+#: includes/mstw-sb-admin.php:63 includes/mstw-sb-admin.php:64
+#: includes/mstw-sb-schedule-builder-class - Copy.php:40
+#: includes/mstw-sb-schedule-builder-class.php:38
+msgid "Schedule Builder"
+msgstr ""
+
+#: includes/mstw-sb-admin.php:78 includes/mstw-sb-admin.php:79
+#: includes/mstw-sb-update-games-class.php:46
+#: includes/mstw-sb-update-games-class.php:146
+#: includes/mstw-sb-update-games-class.php:149
+#: includes/mstw-sb-update-games-class.php:762
+msgid "Update Games"
+msgstr ""
+
+#: includes/mstw-sb-admin.php:307
+msgid "AJAX Error: invalid action."
+msgstr ""
+
+#: includes/mstw-sb-admin.php:313
+msgid "AJAX Error: no action found."
+msgstr ""
+
+#: includes/mstw-sb-admin.php:363
+#, php-format
+msgid "AJAX Error: No seasons for league: %s"
+msgstr ""
+
+#: includes/mstw-sb-admin.php:371
+msgid "AJAX Error: No league provided to handler."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:43
+#: includes/mstw-sb-schedule-builder-class.php:41
+msgid "Read the contextual help tab on the top right of this screen."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:88
+#: includes/mstw-sb-schedule-builder-class.php:81
+msgid "Select League:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:98
+msgid "Create a league (with teams in it) before building a schedule."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:106
+#: includes/mstw-sb-schedule-builder-class.php:109
+msgid "Select Season:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:117
+#: includes/mstw-sb-schedule-builder-class.php:120
+#: includes/mstw-sb-update-games-class.php:103
+#, php-format
+msgid "No seasons found for league %s."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:129
+msgid "SCHEDULE Type:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:132
+#: includes/mstw-sb-schedule-builder-class.php:135
+msgid "Single Round Robin"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:133
+#: includes/mstw-sb-schedule-builder-class.php:136
+msgid "Double Round Robin"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:134
+msgid "Single Elim Bracket"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:135
+msgid "Double Elim Bracket"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:141
+#: includes/mstw-sb-schedule-builder-class.php:142
+msgid "Game Venues:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:144
+msgid "Manually Assign Venues"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:145
+msgid "Assign Home Team Venues"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:146
+msgid "Assign League Venue"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:149
+#: includes/mstw-sb-schedule-builder-class.php:150
+msgid "League Venue:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:158
+#: includes/mstw-sb-schedule-builder-class.php:165
+msgid "Schedule Start Date:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:162
+#: includes/mstw-sb-schedule-builder-class.php:169
+msgid ""
+"Schedule MUST start on an allowed day of the week<br/> as specified by Game "
+"Days below."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:165
+#: includes/mstw-sb-schedule-builder-class.php:172
+msgid "Game Start Time:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:169
+#: includes/mstw-sb-schedule-builder-class.php:176
+msgid "This is the default start time for all games."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:176
+msgid "Schedule End:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:180
+msgid ""
+"If an end date is set, games will be ended on that date, even if the round "
+"robin schedule or tournament is not complete."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:187
+#: includes/mstw-sb-schedule-builder-class.php:182
+msgid "Game Days:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:191
+#: includes/mstw-sb-schedule-builder-class.php:185
+#: includes/mstw-sb-utility-functions.php:418
+#: includes/mstw-utility-functions.php:169
+msgid "Sunday"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:192 Copy.php:212
+#: includes/mstw-sb-schedule-builder-class.php:186
+#: includes/mstw-sb-utility-functions.php:412
+#: includes/mstw-utility-functions.php:163
+msgid "Monday"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:193 Copy.php:213
+#: includes/mstw-sb-schedule-builder-class.php:187
+#: includes/mstw-sb-utility-functions.php:413
+#: includes/mstw-utility-functions.php:164
+msgid "Tuesday"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:194 Copy.php:214
+#: includes/mstw-sb-schedule-builder-class.php:188
+#: includes/mstw-sb-utility-functions.php:414
+#: includes/mstw-utility-functions.php:165
+msgid "Wednesday"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:195 Copy.php:215
+#: includes/mstw-sb-schedule-builder-class.php:189
+#: includes/mstw-sb-utility-functions.php:415
+#: includes/mstw-utility-functions.php:166
+msgid "Thursday"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:196 Copy.php:216
+#: includes/mstw-sb-schedule-builder-class.php:190
+#: includes/mstw-sb-utility-functions.php:416
+#: includes/mstw-utility-functions.php:167
+msgid "Friday"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:197 Copy.php:217
+#: includes/mstw-sb-schedule-builder-class.php:191
+#: includes/mstw-sb-utility-functions.php:417
+#: includes/mstw-utility-functions.php:168
+msgid "Saturday"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:247
+msgid "Time Between Games (minimum):"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:256
+msgid "Game Duration:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:268
+msgid "Blocked Dates:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:269
+msgid "We gotta splain this."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:275
+msgid "Block 1 Start:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:281
+msgid "Block 1 End:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:290
+msgid "Block 2 Start:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:296
+msgid "Block 2 End:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:305
+msgid "Block 3 Start:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:311
+msgid "Block 3 End:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:323 Copy.php:324
+#: Copy.php:403 includes/mstw-sb-schedule-builder-class.php:246
+#: includes/mstw-sb-schedule-builder-class.php:345
+msgid "Create Schedule"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:398
+#: includes/mstw-sb-schedule-builder-class.php:340
+msgid "Build Schedule cancelled."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:416
+#, php-format
+msgid "The league - %s - must have at least 2 games to build a schedule."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:442
+msgid ""
+"Schedule end date cannot be before schedule start date. (They can be the "
+"same date.)"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:460
+msgid "Games must be played on at least one day of the week."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:465
+#, php-format
+msgid ""
+"Schedule must start on an allowable day of the week. Schedule starts on %s."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:488
+#, php-format
+msgid "Created %s games."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:1008
+msgid ""
+"Could not find a valid date in the next year. Stopped building schedule."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:1402
+#: includes/mstw-sb-schedule-builder-class.php:1050
+#: includes/mstw-sb-update-games-class.php:932
+msgid "Overview"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:1424
+#: includes/mstw-sb-schedule-builder-class.php:1071
+msgid ""
+"This screen allows updating the status of all games in a league and season."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:1425
+#: includes/mstw-sb-schedule-builder-class.php:1072
+msgid "Select a LEAGUE and SEASON then press the Update Games Table button."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:1426
+#: includes/mstw-sb-schedule-builder-class.php:1073
+msgid "Enter the status in information for each game."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class - Copy.php:1427
+#: includes/mstw-sb-schedule-builder-class.php:1074
+#: includes/mstw-sb-update-games-class.php:958
+msgid "See the Update Games man page for more details."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:74
+msgid "Creating games ... be patient!"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:97
+#: includes/mstw-sb-schedule-builder-class.php:102
+msgid "A league must have between 3 and 6 teams in order to build a schedule."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:132
+msgid "Schedule Type:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:145
+msgid "League Venue"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:146
+msgid "Home Team Venues"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:210
+msgid "Play multiple Games on a day:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:214
+msgid "Teams can play more than one game in a day."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:218
+msgid "Minimum Rest Time:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:222
+msgid "Minimum time for team rest between games (minutes)."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:228
+msgid "Game Length:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:232
+msgid "Nominal length of games (minutes)."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:236
+msgid "Total games per day:"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:240
+msgid "Maximum (total) games that can be played on one day."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:334
+#: includes/mstw-sb-update-games-class.php:749
+msgid "Problem encountered. Exiting."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:385
+#, php-format
+msgid ""
+"The league (%s) - must have more than 2 teams and no more than 16 teams to "
+"build a schedule. (It has %s.)"
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:409
+#, php-format
+msgid "Invalid schedule start date or time (%s). Try again."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:419
+#, php-format
+msgid "Schedule start day (%s) must be one of the selected game days."
+msgstr ""
+
+#: includes/mstw-sb-schedule-builder-class.php:485
+#, php-format
+msgid "%s games have been created in league %s and season %s."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:24
+msgid "Game<br />Date"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:25
+msgid "Game<br />Time"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:26
+msgid "Time<br />TBA"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:27
+msgid "Game<br />PPD"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:28
+msgid "Home<br />Team"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:29
+msgid "Away<br />Team"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:30
+msgid "Game<br />Location"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:31
+msgid "Home<br />Score"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:32
+msgid "Away<br />Score"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:33
+msgid "Period"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:34
+msgid "Game<br />Clock"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:35
+msgid "Is<br />Final"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:49
+msgid ""
+"NOTE: YOU MUST CLICK THE UPDATE GAMES BUTTON AT THE BOTTOM OF THE SCREEN TO "
+"SAVE ANY CHANGES TO GAMES. Read the contextual help tab on the top right of "
+"this screen."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:90
+msgid "Create a league (with games in it) to use this function."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:111
+msgid "Update Tournament Table"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:161
+#, php-format
+msgid "No games found for league %s and season %s."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:164
+#, php-format
+msgid "No games found for sport %s and date %s."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:171
+msgid "Select a league and a season."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:755
+msgid "Select League"
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:876
+#, php-format
+msgid "Updated %s games."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:953
+msgid ""
+"This screen allows updating the status of the games for a league and season "
+"OR on a specified day."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:954
+msgid ""
+"Either select a LEAGUE and SEASON in the controls, then press the Update "
+"Table - League button, OR select a SPORT and DATE, then press Update Table - "
+"Date. NOTE: these buttons will NOT make changes to the database."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:955
+msgid "Enter updated information for games, as necessary."
+msgstr ""
+
+#: includes/mstw-sb-update-games-class.php:956
+msgid ""
+"Click the Update Games button at the bottom of the screen to save your "
+"changes to the database."
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:403
+#: includes/mstw-utility-functions.php:154
+msgid "Mon"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:404
+#: includes/mstw-utility-functions.php:155
+msgid "Tue"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:405
+#: includes/mstw-utility-functions.php:156
+msgid "Wed"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:406
+#: includes/mstw-utility-functions.php:157
+msgid "Thr"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:407
+#: includes/mstw-utility-functions.php:158
+msgid "Fri"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:408
+#: includes/mstw-utility-functions.php:159
+msgid "Sat"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:409
+#: includes/mstw-utility-functions.php:160
+msgid "Sun"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:421
+#: includes/mstw-utility-functions.php:172
+msgid "January"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:422
+#: includes/mstw-utility-functions.php:173
+msgid "February"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:423
+#: includes/mstw-utility-functions.php:174
+msgid "March"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:424
+#: includes/mstw-utility-functions.php:175
+msgid "April"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:425
+#: includes/mstw-sb-utility-functions.php:439
+#: includes/mstw-utility-functions.php:176
+#: includes/mstw-utility-functions.php:190
+msgid "May"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:426
+#: includes/mstw-utility-functions.php:177
+msgid "June"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:427
+#: includes/mstw-utility-functions.php:178
+msgid "July"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:428
+#: includes/mstw-utility-functions.php:179
+msgid "August"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:429
+#: includes/mstw-utility-functions.php:180
+msgid "September"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:430
+#: includes/mstw-utility-functions.php:181
+msgid "October"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:431
+#: includes/mstw-utility-functions.php:182
+msgid "November"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:432
+#: includes/mstw-utility-functions.php:183
+msgid "December"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:435
+#: includes/mstw-utility-functions.php:186
+msgid "Jan"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:436
+#: includes/mstw-utility-functions.php:187
+msgid "Feb"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:437
+#: includes/mstw-utility-functions.php:188
+msgid "Mar"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:438
+#: includes/mstw-utility-functions.php:189
+msgid "Apr"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:440
+#: includes/mstw-utility-functions.php:191
+msgid "Jun"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:441
+#: includes/mstw-utility-functions.php:192
+msgid "Jul"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:442
+#: includes/mstw-utility-functions.php:193
+msgid "Aug"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:443
+#: includes/mstw-utility-functions.php:194
+msgid "Sep"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:444
+#: includes/mstw-utility-functions.php:195
+msgid "Oct"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:445
+#: includes/mstw-utility-functions.php:196
+msgid "Nov"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:446
+#: includes/mstw-utility-functions.php:197
+msgid "Dec"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:569
+#: includes/mstw-utility-functions.php:320
+msgid "Default Field"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:570
+#: includes/mstw-utility-functions.php:321
+msgid "Default Label"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:790
+#: includes/mstw-utility-functions.php:487
+msgid "Show"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:791
+#: includes/mstw-utility-functions.php:488
+msgid "Hide"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:797
+#: includes/mstw-sb-utility-functions.php:812
+#: includes/mstw-sb-utility-functions.php:822
+#: includes/mstw-sb-utility-functions.php:842
+#: includes/mstw-sb-utility-functions.php:850
+#: includes/mstw-sb-utility-functions.php:861
+#: includes/mstw-utility-functions.php:494
+#: includes/mstw-utility-functions.php:509
+#: includes/mstw-utility-functions.php:519
+#: includes/mstw-utility-functions.php:539
+#: includes/mstw-utility-functions.php:547
+#: includes/mstw-utility-functions.php:558
+msgid "Custom"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:798
+#: includes/mstw-utility-functions.php:495
+msgid "Tuesday, 07 April 01:15 pm"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:799
+#: includes/mstw-utility-functions.php:496
+msgid "Tuesday, 7 April 01:15 pm"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:800
+#: includes/mstw-utility-functions.php:497
+msgid "Tuesday, 07 April 1:15 pm"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:801
+#: includes/mstw-utility-functions.php:498
+msgid "Tuesday, 7 April 1:15 pm"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:802
+#: includes/mstw-sb-utility-functions.php:803
+#: includes/mstw-utility-functions.php:499
+#: includes/mstw-utility-functions.php:500
+msgid "Tuesday, 7 April 13:15"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:804
+#: includes/mstw-utility-functions.php:501
+msgid "07 April 13:15"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:805
+#: includes/mstw-utility-functions.php:502
+msgid "7 April 13:15"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:806
+#: includes/mstw-utility-functions.php:503
+msgid "07 April 01:15 pm"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:807
+#: includes/mstw-utility-functions.php:504
+msgid "7 April 01:15 pm"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:816
+#: includes/mstw-utility-functions.php:513
+msgid "Formats for 7 April 2013 13:15."
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:827
+#: includes/mstw-utility-functions.php:524
+msgid "07 Apr 2013"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:828
+#: includes/mstw-utility-functions.php:525
+msgid "7 Apr 2013"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:829
+#: includes/mstw-utility-functions.php:526
+msgid "Tues, 07 Apr 2013"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:830
+#: includes/mstw-utility-functions.php:527
+msgid "Tues, 7 Apr 13"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:831
+#: includes/mstw-utility-functions.php:528
+msgid "Tuesday, 7 Apr"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:832
+#: includes/mstw-utility-functions.php:529
+msgid "Tuesday, 07 April 2013"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:833
+#: includes/mstw-utility-functions.php:530
+msgid "Tuesday, 7 April 2013"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:834
+#: includes/mstw-utility-functions.php:531
+msgid "Tues, 07 Apr"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:835
+#: includes/mstw-utility-functions.php:532
+msgid "Tues, 7 Apr"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:836
+#: includes/mstw-utility-functions.php:533
+msgid "07 Apr"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:837
+#: includes/mstw-utility-functions.php:534
+msgid "7 Apr"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:845
+#: includes/mstw-utility-functions.php:542
+msgid "Formats for 7 Apr 2013. Default: 2013-04-07"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:851
+#: includes/mstw-utility-functions.php:548
+msgid "08:00 (24hr)"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:852
+#: includes/mstw-utility-functions.php:549
+msgid "8:00 (24hr)"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:853
+#: includes/mstw-utility-functions.php:550
+msgid "08:00 am"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:854
+#: includes/mstw-utility-functions.php:551
+msgid "08:00 AM"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:855
+#: includes/mstw-utility-functions.php:552
+msgid "8:00 am"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:856
+#: includes/mstw-utility-functions.php:553
+msgid "8:00 AM"
+msgstr ""
+
+#: includes/mstw-sb-utility-functions.php:864
+#: includes/mstw-utility-functions.php:561
+msgid "Formats for eight in the morning. Default: 08:00"
+msgstr ""
+
+#: mstw-schedule-builder.php:64
+msgid ""
+"MSTW League Manager version 2.5 or higher must be activated before "
+"activating MSTW Schedule Builder. [Press back arrow in browser to continue.]"
+msgstr ""
